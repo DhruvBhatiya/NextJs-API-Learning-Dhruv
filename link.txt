@@ -1,0 +1,9 @@
+mongo
+UN - nextlearn
+ps - nextLearn
+
+
+Paste your connection string into the Command Palette.
+=======================
+mongodb+srv://nextlearn:<password>@cluster0.8x5iwwj.mongodb.net/
+
